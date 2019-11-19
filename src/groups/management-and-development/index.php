@@ -20,7 +20,7 @@
       </style>
   </head>
   <body>
-    <riot-trello src="https://trello.com/b/v2MQl0EB.json"></riot-trello>
+    <riot-trello src="https://trello.com/b/v353kFxM.json"></riot-trello>
     <?php include'../../navbar.php';?>
     <div class="container-fluid text-center"> 
       <div class="row">
@@ -33,7 +33,7 @@
       </div>
       <div id="Management-and-Development" class="col-md-12 group-div" class="trello-groups inside-div-trello">
         <div id="trello-management-and-development" class="trello-groups">
-          <iframe frameborder="0" src="https://trello.com/b/v2MQl0EB.html" class="trello-groups">
+          <iframe frameborder="0" src="https://trello.com/b/v353kFxM.html" class="trello-groups">
           </iframe>
         </div>
       </div>
